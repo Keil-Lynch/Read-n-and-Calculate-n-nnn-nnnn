@@ -32,15 +32,15 @@ Test Case Study (Run Program)
 
 Run(1)
 
-Enter a number n: 10
-The value is: 10202030
+(Console Prompt) Enter a number n:  (User Input) 10
+(Output) The value is: 10202030
 
 Run(2)
 
-Enter a number n: 467
-The value is: 467934935401
+(Console Prompt) Enter a number n: (User Input) 467
+(Output) The value is: 467934935401
 
 Run(3)
 
-Enter a number n: 7
-The value is: 8561
+(Console Prompt) Enter a number n: (User Input) 7
+(Output) The value is: 8561
